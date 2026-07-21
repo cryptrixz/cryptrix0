@@ -106,4 +106,6 @@ JSON"
     open -a "/Applications/Roblox.app"
 }
 
+made by domix btw
+
 main
